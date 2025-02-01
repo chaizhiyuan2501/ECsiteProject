@@ -7,6 +7,7 @@
 📚 [Python + Django5 Djangoを基礎から応用まで、アプリケーション開発マスターpython付き](https://www.udemy.com/share/103OHY3@5JdSpwpJtBk6FXDdLoQeB-D1g_nt31JH7eSso0Ld1otnAfjP6jSbJjPZHRQXrwCRsA==/)
 
 **学習ポイント**
+- **Googleアカウントと連携してユーザーを登録する機能を実装**
 - **管理画面での商品情報処理の実装**
 - **商品情報の絞り込む機能の実装**
 - **カート機能の実装**
@@ -28,8 +29,8 @@
 
 ### 1️⃣ **リポジトリをクローン**
 ```bash
-git clone https://github.com/chaizhiyuan2501/LoginView.git
-cd LoginView
+git clone https://github.com/chaizhiyuan2501/ECsiteProject.git
+cd ECsiteProject
 ```
 
 ### 2️⃣ **仮想環境の作成と有効化**
@@ -68,7 +69,7 @@ python manage.py runserver
 
 ## 🎯 動作確認
 ブラウザで以下のURLにアクセスしてアプリの動作を確認します：
-🔗 **http://127.0.0.1:8000/accounts/home/**
+🔗 **http://127.0.0.1:8000/accounts/user_login/**
 
 ---
 
